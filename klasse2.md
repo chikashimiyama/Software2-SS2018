@@ -1,4 +1,4 @@
-TouchDesigner und 3D
+TouchDesigner und 3D mit Video
 ====================
 
  
@@ -64,3 +64,58 @@ Viele 3D Modelle sind kostenlos verfugbar auf https://www.turbosquid.com/
 Man kann mit Phong-OP Texture und Modell kombinieren.
 
 ![extur](C:\Users\chikashi\Desktop\Software2-SS2018\K2\texture.PNG)
+
+
+
+## Particles in TD
+
+
+
+### Wichtigste Parameter
+
+- Forces
+  - Wind xyz: simuliert Wind 
+  - Tubulance xyz: simuliert turbulente Strömung
+- Particles
+  - Life Expect: Lebensdauer eines Particles
+  - Birth: Geburtsrate von Particles
+
+
+
+![articl](C:\Users\chikashi\Desktop\Software2-SS2018\K2\particle.PNG)
+
+
+
+### Instancing (Wiederholung)
+
+
+
+![nstancin](C:\Users\chikashi\Desktop\Software2-SS2018\K2\Instancing.PNG)
+
+
+
+Mehrere Instanzen eines 3D Models kann man mit Instance CHOP/DAT erzeugen.
+
+## Particle System + Instancing
+
+![article+instancin](C:\Users\chikashi\Desktop\Software2-SS2018\K2\particle+instancing.PNG)
+
+CHOP: SopTo extrahiert die Positionen jedes Particles. Man kann diese extrahierte Daten als Quelle von Instancing benutzen.
+
+
+
+## Particle + MAT
+
+Jeder Particle ist jetzt eine Instanz des 3D Models deshalb mit MAT-Ops eine Texture verknupfen.
+
+
+
+![ideo_ball](C:\Users\chikashi\Desktop\Software2-SS2018\K2\video_balls.PNG)
+
+
+
+# Wasserfall-Brunnen Effekt
+
+Projection Mapping ist auch moglich
+
+![rojection_agains](C:\Users\chikashi\Desktop\Software2-SS2018\K2\projection_against.PNG)
