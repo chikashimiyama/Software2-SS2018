@@ -1,9 +1,9 @@
-3D mit Video
+TouchDesigner und 3D mit Video
 ====================
 
  
 
-## Satellite
+## Satelite
 
 ### SOP:Copy
 
@@ -86,7 +86,7 @@ Man kann mit Phong-OP Texture und Modell kombinieren.
 
 
 
-## Instancing (Wiederholung)
+### Instancing (Wiederholung)
 
 
 
@@ -116,7 +116,7 @@ Jeder Particle ist jetzt eine Instanz des 3D Models deshalb mit MAT-Ops eine Tex
 
 ## Particles + Projektion 
 
-Projection Mapping ist auch möglich
+Projection Mapping ist auch moglich
 
 ![rojection_agains](C:\Users\chikashi\Desktop\Software2-SS2018\K2\projection_against.PNG)
 
@@ -126,7 +126,7 @@ Projection Mapping ist auch möglich
 
 Man kann z.B. Wind Parameter mit Audio steuern
 
-![in](C:\Users\chikashi\Desktop\Software2-SS2018\K2\wind.PNG)
+
 
 
 
