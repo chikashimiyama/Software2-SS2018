@@ -63,7 +63,7 @@ Viele 3D Modelle sind kostenlos verfugbar auf https://www.turbosquid.com/
 
 Man kann mit Phong-OP Texture und Modell kombinieren.
 
-![extur](C:\Users\chikashi\Desktop\Software2-SS2018\K2\texture.PNG)
+![extur](K2/texture.PNG)
 
 
 
@@ -82,7 +82,7 @@ Man kann mit Phong-OP Texture und Modell kombinieren.
 
 
 
-![articl](C:\Users\chikashi\Desktop\Software2-SS2018\K2\particle.PNG)
+![articl](K2/particle.PNG)
 
 
 
@@ -90,7 +90,7 @@ Man kann mit Phong-OP Texture und Modell kombinieren.
 
 
 
-![nstancin](C:\Users\chikashi\Desktop\Software2-SS2018\K2\Instancing.PNG)
+![nstancin](K2/Instancing.PNG)
 
 
 
@@ -98,7 +98,7 @@ Mehrere Instanzen eines 3D Models kann man mit Instance CHOP/DAT erzeugen.
 
 ## Particles + Instancing
 
-![article+instancin](C:\Users\chikashi\Desktop\Software2-SS2018\K2\particle+instancing.PNG)
+![article+instancin](K2/particle+instancing.PNG)
 
 CHOP: SopTo extrahiert die Positionen jedes Particles. Man kann diese extrahierte Daten als Quelle von Instancing benutzen.
 
@@ -110,7 +110,7 @@ Jeder Particle ist jetzt eine Instanz des 3D Models deshalb mit MAT-Ops eine Tex
 
 
 
-![ideo_ball](C:\Users\chikashi\Desktop\Software2-SS2018\K2\video_balls.PNG)
+![ideo_ball](K2/video_balls.PNG)
 
 
 
@@ -118,7 +118,7 @@ Jeder Particle ist jetzt eine Instanz des 3D Models deshalb mit MAT-Ops eine Tex
 
 Projection Mapping ist auch möglich
 
-![rojection_agains](C:\Users\chikashi\Desktop\Software2-SS2018\K2\projection_against.PNG)
+![rojection_agains](K2/projection_against.PNG)
 
 
 
@@ -126,7 +126,7 @@ Projection Mapping ist auch möglich
 
 Man kann z.B. Wind Parameter mit Audio steuern
 
-![in](C:\Users\chikashi\Desktop\Software2-SS2018\K2\wind.PNG)
+![in](K2/wind.PNG)
 
 
 

@@ -32,17 +32,16 @@ TouchDesigner
 
 F1 ... Performance Mode
 
-![rojectio](C:\Users\chikashi\Desktop\Software2-SS2018\K1\projection.PNG)
-
+![rojectio](K1/projection.PNG)
 
 
 ### MIDI IN
 
-![id](C:\Users\chikashi\Desktop\Software2-SS2018\K1\midi.PNG)
+![id](K1/midi.PNG)
 
 ### OSC IN
 
-![s](C:\Users\chikashi\Desktop\Software2-SS2018\K1\osc.PNG)
+![s](K1/osc.PNG)
 
 
 
@@ -50,16 +49,16 @@ F1 ... Performance Mode
 
 #### CHOP Export 
 
-![xport_cho](C:\Users\chikashi\Desktop\Software2-SS2018\K1\export_chop.PNG)
+![xport_cho](K1/export_chop.PNG)
 
 #### CHOP Reference 
 
-![eference_cho](C:\Users\chikashi\Desktop\Software2-SS2018\K1\reference_chop.PNG)
+![eference_cho](K1/reference_chop.PNG)
 
 ### Audio In
 
-![udi](C:\Users\chikashi\Desktop\Software2-SS2018\K1\Audio.PNG)
+![udi](K1/Audio.PNG)
 
 ### Touch Designer + 3D
 
-![D_Trinit](C:\Users\chikashi\Desktop\Software2-SS2018\K1\3D_Trinity.PNG)
+![D_Trinit](K1/3D_Trinity.PNG)
