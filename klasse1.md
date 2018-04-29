@@ -43,8 +43,6 @@ F1 ... Performance Mode
 
 ![s](K1/osc.PNG)
 
-
-
 ### Mapping
 
 #### CHOP Export 
