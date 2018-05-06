@@ -79,9 +79,8 @@ To maintain the optimized properties of perform mode, all windows should be rend
 Zwei Container + Align Order
 
 ![](K4/solution.png)
-![](k4/twocontainers.png)
 
-
+![](K4/twocontainers.png)
 
 
 ## Andere UI Komponenten
@@ -92,8 +91,11 @@ funktioniert wie "bpatcher". OpViewer zeigt ein ausgewählte Operator im Panel
 
 ### Field
 Text input auf Perform Window
+
 ![](K4/field.png)
 
 #### 3D Text In Echtzeit
+
+
 ![](K4/3dtext.png)
 ![](K4/3dtext_perf.png)
